@@ -12,7 +12,7 @@ usage = """Retrieves a list of follower usernames of a GitHub user using the Git
 Usage: python grab.py [target_username] [output filename] [max_pages|optional]
 
 Example:
-    grab.py jfullstackdev followers.txt 5
+    grab.py hajigur69 followers.txt 5
 """
 
 def main():
