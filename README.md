@@ -43,11 +43,11 @@
 ## How It Works
 
 - The script sends requests to the GitHub API or scrapes GitHub profiles to retrieve information about the specified usernames.
-- It can be used to check if a username is available or to fetch public details about a user[1][2][3].
+- It can be used to check if a username is available or to fetch public details about a user.
 
 ## Notes
 
-- Be mindful of GitHub's rate limits when making multiple requests[4].
+- Be mindful of GitHub's rate limits when making multiple requests.
 - Use responsibly and do not violate GitHub's terms of service.
 
 ## Contributing
